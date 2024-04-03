@@ -10,6 +10,7 @@
 • Есть два типа врагов, один лёгкий и быстрый, другой тяжелый и медленный, которого труднее столкнуть
 
 Геймплей:
+
 ![image](https://github.com/HAR4A/Prototype-4/assets/150113486/4f7b4f3e-7808-4ad4-93a3-a6d91a832848)
 
 
@@ -24,7 +25,9 @@
 • При использовании ускорения воспроизовдится небольшой эффект дыма, созданный с помощью ParticleSystem
 
 Сцена:
+
 ![image](https://github.com/HAR4A/Prototype-4/assets/150113486/9dff3b12-18a2-44e7-a3f7-e6d99f10cd9e)
 
 Геймплей:
+
 ![image](https://github.com/HAR4A/Prototype-4/assets/150113486/bedbc29a-fed8-44b6-bda2-5ea9c68f6dfe)
